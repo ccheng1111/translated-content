@@ -82,7 +82,7 @@ slug: Web/JavaScript/Reference/Global_Objects/Map
       <p><code>Object</code> 没有实现 <a
        href="/zh-CN/docs/Web/JavaScript/Reference/Iteration_protocols#the_iterable_protocol"
         >迭代协议</a
-      >，所以使用 JavaSctipt 的 <a href="/zh-CN/docs/Web/JavaScript/Reference/Statements/for...of"
+      >，所以使用 JavaScript 的 <a href="/zh-CN/docs/Web/JavaScript/Reference/Statements/for...of"
         >for...of</a
       > 表达式并不能直接迭代对象。</p>
       <div class="notecard note">
